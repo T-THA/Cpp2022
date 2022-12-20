@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "istream": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "stdexcept": "cpp",
+        "xutility": "cpp",
+        "string": "cpp",
+        "stdio.h": "c",
+        "utility": "cpp",
+        "algorithm": "cpp"
+    }
+}
